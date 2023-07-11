@@ -1,0 +1,27 @@
+.information{
+
+    width: 500px;
+    display: block;
+      align-items: center;
+    justify-content: center;
+  }
+  h1 {
+    font-size: 150px;
+    color: #ffb522;
+    font-weight:10000;
+    letter-spacing: 0.2px;
+    line-height: -60px;
+    font-family: Delicious Handrawn;
+    margin-top: 60px;
+    margin-bottom: 250px;
+  }
+  
+    p {
+      display: block;
+      margin-block-start: -6em;
+      font-size:30px ;
+      margin-block-end: 1em;
+      margin-inline-start: 0px;
+      margin-inline-end: 0px;
+  } 
+  
